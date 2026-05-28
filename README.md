@@ -1,220 +1,193 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Navya Sri Mutthavarapu</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Analyst | Data Scientist | Python • SQL • Power BI • ML
-</h3>
+# ✨ Hey There, I'm Navya Sri Mutthavarapu ✨
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%F0%9F%92%AB;Data+Analyst+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Power+BI+%7C+Python+%7C+SQL+%F0%9F%9A%80;Building+AI+Driven+Solutions+%E2%9C%A8" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NavyaSriMutthavarapu&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+<a href="https://github.com/NavyaSriMutthavarapu">
+<img src="https://img.shields.io/github/followers/NavyaSriMutthavarapu?label=Followers&style=for-the-badge&color=orange" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
 <a href="https://www.linkedin.com/in/navya-sri-mutthavarapu-1188a8287/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:navyasri0305@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NavyaSriMutthavarapu">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=NavyaSriMutthavarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```python
 navya = {
     "role": "Aspiring Data Analyst / Data Scientist",
-    "location": "Hyderabad, Telangana, India",
-    "education": "B.Tech AI & Data Science",
-    "focus": [
-        "Data Analytics",
-        "Machine Learning",
-        "NLP",
-        "GenAI"
-    ],
+    "location": "Hyderabad, India",
     "skills": [
         "Python",
         "SQL",
         "Power BI",
+        "Machine Learning",
         "EDA",
-        "Deep Learning"
+        "NLP"
     ],
     "currently_learning": [
         "Transformers",
-        "LLM Applications",
-        "AI Agents",
-        "MLOps"
+        "LLMs",
+        "AI Agents"
     ],
-    "goal": "Build impactful AI and data-driven solutions",
-    "fun_fact": "I love turning messy data into meaningful insights ✨"
+    "interests": [
+        "Data Analytics",
+        "Artificial Intelligence",
+        "Automation"
+    ],
+    "goal": "Turning raw data into meaningful insights ✨"
 }
 ```
 
+
 ---
 
-# 🚀 Impact Highlights
+# 🚀 Featured Projects
 
-| 📌 Achievement | 📈 Result |
+<div align="center">
+
+| 🚀 Project | 💡 Description |
 |---|---|
-| Travel Data Web Scraping Pipeline | Extracted 25,000+ travel package records |
-| Bank Customer Churn Dashboard | Analyzed 10,000+ customer records |
-| Search Query Clustering Project | Worked with 60 lakh+ search queries |
-| SQL Consumer Analytics Project | Improved query performance by 30% |
-| Traffic Anomaly Detection | Detected 5–10% anomalies using DBSCAN & K-Means |
-| NLP Sentiment Analysis | Achieved 91% classification accuracy |
+| 📊 Travel Triangles Web Scraping | Extracted 25,000+ travel records using BeautifulSoup & Regex |
+| 🏦 Bank Customer Churn Analysis | Interactive Power BI dashboards with KPI tracking |
+| 🍽️ SQL Consumer Analytics | Advanced SQL analytics using JOINS, CTEs & Window Functions |
+| 🤖 AI Career Advisor | NLP + Streamlit based resume career prediction system |
+| 🚦 Traffic Pattern Detection | DBSCAN & K-Means based anomaly detection |
+| 🛡️ YouTube Content Detection | Multimodal harmful content detection framework |
+| ⚡ AI Content Automation | n8n + Gemini API based content repurposing workflows |
+
+</div>
 
 ---
 
 # 💼 Internship Experience
 
-## 🏢 Data Science & Advanced GenAI Intern  
-### Innomatics Research Labs | Nov 2025 – Jan 2026
+<div align="center">
 
-- Processed 50,000+ Flipkart product reviews using NLP preprocessing
-- Implemented TF-IDF and Bag-of-Words vectorization pipelines
-- Built sentiment classification models using Logistic Regression & Naïve Bayes
-- Evaluated models using Precision, Recall, F1-Score & Confusion Matrix
-- Developed Streamlit application for sentiment prediction workflows
+### 🏢 Data Science & Advanced GenAI Intern  
+### 📍 Innomatics Research Labs
 
----
+</div>
 
-# 💼 Featured Projects
-
-## 📊 Travel Triangles Web Scraping & EDA
-- Collected 25,000+ travel package records using BeautifulSoup and Regex
-- Built automated scraping and preprocessing pipelines
-- Analyzed destination-wise pricing trends using EDA
-
-## 🏦 Bank Customer Churn Analysis
-- Evaluated 10,000+ banking customer records using Power BI dashboards
-- Created DAX measures and KPI reports for churn analysis
-- Developed interactive dashboards with drill-through analysis
-
-## 🍽️ Restaurant & Consumer Data Analysis (SQL)
-- Queried and analyzed 10,000+ records using JOINS, CTEs, subqueries, and window functions
-- Improved query execution performance by 30%
-- Generated reports for customer behavior and operational trends
-
-## 🚗 Car Data Analysis
-- Processed 1,200+ automobile records using Pandas preprocessing
-- Generated 20+ visualizations including heatmaps and scatter plots
-- Analyzed mileage, horsepower, and pricing relationships
-
-## 🤖 AI Career Advisor (ML + NLP + Streamlit)
-- Built career recommendation system using NLP and supervised learning
-- Implemented TF-IDF vectorization and resume classification
-- Developed Streamlit app for PDF resume upload and predictions
-
-## 🚦 Traffic Pattern & Anomaly Detection
-- Applied K-Means and DBSCAN clustering algorithms
-- Used PCA dimensionality reduction for visualization
-- Built Streamlit dashboards for anomaly monitoring
-
-## 🛡️ YouTube Inappropriate Content Detection
-- Developed multimodal deep learning framework
-- Used BiLSTM and EfficientNet-B7 for harmful content detection
-- Combined NLP and computer vision techniques
-
-## ⚡ AI-Powered Content Repurposing Automation
-- Built automation workflows using n8n and Gemini API
-- Converted YouTube videos into LinkedIn posts and summaries
-- Automated AI-based content generation pipelines
+- 🔹 Processed **50,000+ Flipkart product reviews**
+- 🔹 Built NLP sentiment classification pipelines
+- 🔹 Implemented TF-IDF & Bag-of-Words vectorization
+- 🔹 Worked with Logistic Regression & Naïve Bayes
+- 🔹 Developed Streamlit sentiment analysis applications
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages & Libraries
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
 ---
 
-## 📊 Data Analytics & Visualization
+## 📊 Data Analytics
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
 
 ---
 
 ## 🤖 AI / ML / NLP
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+</div>
 
 ---
 
-## 🌐 Tools & Platforms
+# 📈 GitHub Analytics
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavyaSriMutthavarapu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📜 Certifications
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaSriMutthavarapu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🏆 Tata - GenAI Powered Data Analytics Job Simulation  
-🏆 Machine Learning - Innomatics Research Labs  
-🏆 The Joy of Computing using Python - NPTEL  
-🏆 Python Programming - Internshala Trainings
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaSriMutthavarapu&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 Achievements & Certifications
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NavyaSriMutthavarapu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavyaSriMutthavarapu&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaSriMutthavarapu&layout=compact&theme=tokyonight" />
-</p>
+🏅 Tata - GenAI Powered Data Analytics Job Simulation  
+🏅 Machine Learning - Innomatics Research Labs  
+🏅 The Joy of Computing Using Python - NPTEL  
+🏅 Python Programming - Internshala Trainings
 
 ---
 
 # 🌱 Currently Exploring
 
+```yaml
+Learning:
 - Transformers & Attention Mechanisms
 - NLP & Deep Learning
 - AI Agents & LLM Applications
 - Workflow Automation using n8n
 - Real-world ML Deployment
+```
 
 ---
 
-# 🤝 Connect With Me
+# ⚡ Fun Fact
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/navya-sri-mutthavarapu-1188a8287/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+✨ I enjoy transforming messy datasets into meaningful business insights ✨
 
-<a href="https://github.com/NavyaSriMutthavarapu">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-✨ Turning Data into Insights & AI into Real-World Solutions ✨
-</p>
+<div align="center">
+
+##  Thanks for visiting my profile 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+
+</div>
